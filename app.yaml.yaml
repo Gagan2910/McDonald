@@ -1,0 +1,6 @@
+runtime: php5.5
+api_version: 1
+
+ handlers:
+ - url: /.*
+  script: index.php
